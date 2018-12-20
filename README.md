@@ -2,6 +2,8 @@
 
 ## Real-time face detection example with OpenVINO running on Raspberry Pi
 
+![Raspberry Pi Screenshot](https://github.com/nikogamulin/movidius-rpi/blob/master/screenshots/rpi_screenshot.png?raw=true)
+
 ### Requirements
 * Raspberry Pi 3 Model B
 * Movidius Neural Compute Stick 2 (not tested yet on NCS)
