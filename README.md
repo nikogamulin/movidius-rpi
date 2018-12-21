@@ -24,7 +24,7 @@ In order to test and debug the app, I have added the video and ran the app on VM
 
 --input videos/dive.mp4
 
-### Credits
+### Useful Resources
 
 Thanks to [Adrian Rosenbrock](https://github.com/jrosebr1) for the following helpful tutorials:
 
